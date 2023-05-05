@@ -1,4 +1,4 @@
-# Lens Data Tools by Ricky
+# Lens Data Tools by [rickydata.lens](https://lenster.xyz/u/rickydata)
 
 ## April 17, 2023
 
