@@ -12,6 +12,8 @@ Animated charts to view the top profiles that have engaged with you over the pas
 
 - Post: https://lenster.xyz/posts/0x5bfc-0x01e0
 
+- Code: https://github.com/ries9112/LensDataTools/blob/main/animated_engagement/animated_engagement_charts.R
+
 - Tool: TBD
 
 
