@@ -6,9 +6,9 @@
 
 Animated charts to view the top profiles that have engaged with you over the past year. This is the only one on this list which isn't a publicly deployed tool, because it still needs to be optimized, and generating the .gif can take a long time (a one year period tends to be about 2,000 images/charts that are then put together. The code itself is [all publicly available here](https://github.com/ries9112/LensDataTools/blob/main/animated_engagement/animated_engagement_charts.R) and can be used locally by anyone who provides their own Google account (the script should walk users through an interactive login without worrying about tokens and security).
 
-<a href="https://lenster.xyz/posts/0x5bfc-0x01e0" target="_blank">
-    <img src="https://gateway.ipfscdn.io/ipfs/QmNpiGH74godKv2iX875ajN5cCdTYG8nFds6cQuvAcvJcb" alt="animated viz" width="75%" height="75%">
-</a>
+| [![rickydata top following](https://github.com/ries9112/LensDataTools/blob/main/animated_engagement/rickydata_top_following.gif?raw=true)](https://github.com/ries9112/LensDataTools/blob/main/animated_engagement/rickydata_top_following.gif?raw=true) | [![rickydata top followers](https://github.com/ries9112/LensDataTools/blob/main/animated_engagement/rickydata_top_followers.gif?raw=true)](https://github.com/ries9112/LensDataTools/blob/main/animated_engagement/rickydata_top_followers.gif?raw=true) |
+|---|---|
+
 
 - Post: https://lenster.xyz/posts/0x5bfc-0x01e0
 
