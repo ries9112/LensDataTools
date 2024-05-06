@@ -1,5 +1,19 @@
 # Lens Data Tools by [rickydata.lens](https://lenster.xyz/u/rickydata)
 
+## May 6, 2024
+
+### Build Your Own Gallery
+
+Configure your own art gallery based on a search term and maximum price, and find new pieces to collect on Lens.
+
+<img width="673" alt="image" src="https://github.com/ries9112/LensDataTools/assets/32306488/fffed4ce-6aa2-4e8b-bc3e-ed6346a80eef">
+
+
+- Post: [https://lenster.xyz/posts/0x5bfc-0x01e0](https://hey.xyz/posts/0x0102cc-0x0319)
+
+- Tool: [https://www.voxels.com/play?coords=N@6889W,38S](https://www.voxels.com/play?coords=N@6889W,38S)
+
+
 ## May 17, 2023
 
 ### Animated Visualization of Account Interactions Leaderboard
